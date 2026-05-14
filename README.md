@@ -47,7 +47,7 @@ The system detects **7 emotions**: Joy, Sadness, Anger, Fear, Surprise, Disgust,
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/emotion-detection-ai.git
+git clone https://github.com/hadeedzahid/emotion-detection-ai.git
 cd emotion-detection-ai
 ```
 
