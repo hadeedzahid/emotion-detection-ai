@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model results (checkpoints during training)
+emotion_model_results/
+
+# Large model files (too big for GitHub - download via train.py)
+emotion_model_final/model.safetensors
+
+# Jupyter
+.ipynb_checkpoints/
